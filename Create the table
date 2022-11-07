@@ -1,0 +1,7 @@
+create table Customers(
+customer_id int not null primary key,
+first_name varchar(30),
+last_name varchar(30),
+age int not null,
+country varchar(30) not null
+);
