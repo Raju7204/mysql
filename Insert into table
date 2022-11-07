@@ -1,0 +1,5 @@
+insert into table Customers (customer_id,first_name,last_name,age,country) values (1,'Raju','Mamidisetty',21,'India');
+insert into table Customers (customer_id,first_name,last_name,age,country) values (1,'Anand','Mamidisetty',45,'India');
+insert into table Customers (customer_id,first_name,last_name,age,country) values (1,'Parvathi','Mamidisetty',39,'India');
+insert into table Customers (customer_id,first_name,last_name,age,country) values (1,'Bhargavi','Mamidisetty',18,'India');
+insert into table Customers (customer_id,first_name,last_name,age,country) values (1,'Vasu','Raju',20,'India');
